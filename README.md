@@ -17,5 +17,3 @@ Functionalities:
 - Remove Marker
 
 ---
-
-https://github.com/Sheikh-Rashdan/mttn-manipal-map/raw/main/display/demo.webm
